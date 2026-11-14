@@ -1,0 +1,30 @@
+{
+  "name": "Koliseu Live",
+  "message": "",
+  "keyword": "koliseuot",
+  "channels": [
+    { "platform": "twitch", "login": "yagoodz_",      "name": "yagoodz_" },
+    { "platform": "twitch", "login": "aleexsand",     "name": "Alex Bahia" },
+    { "platform": "twitch", "login": "amandaays",     "name": "Amandaays" },
+    { "platform": "twitch", "login": "arqueirodkt",   "name": "Arqueiro Dkt" },
+    { "platform": "kick",   "login": "arqueirodkt",   "name": "Arqueiro Dkt" },
+    { "platform": "twitch", "login": "caiotalla",     "name": "Caio Talla" },
+    { "platform": "twitch", "login": "heyafro",       "name": "heyafro" },
+    { "platform": "twitch", "login": "kiko_alucardi", "name": "Kiko Alucardi" },
+    { "platform": "twitch", "login": "kinggigeck",    "name": "King Gigeck" },
+    { "platform": "twitch", "login": "luucca1993",    "name": "Luucca1993" },
+    { "platform": "twitch", "login": "monkzzera",     "name": "Monk" },
+    { "platform": "kick",   "login": "motoboyrj",     "name": "motoboyrj_" },
+    { "platform": "twitch", "login": "oubinha27",     "name": "Oubinha" },
+    { "platform": "twitch", "login": "phziin_stx",    "name": "Phziin",        "active": false },
+    { "platform": "twitch", "login": "romulons",     "name": "Romulons" },
+    { "platform": "twitch", "login": "rpxhoffmann",   "name": "rpxhoffmann" },
+    { "platform": "twitch", "login": "sauronknight1", "name": "sauronknight1" },
+    { "platform": "twitch", "login": "sirneriss",     "name": "Sir Neriss" },
+    { "platform": "kick",   "login": "sirneriss",     "name": "Sir Neriss" },
+    { "platform": "twitch", "login": "teylera",       "name": "teylera" },
+    { "platform": "twitch", "login": "tvnandin_",     "name": "Tv Nandin" },
+    { "platform": "twitch", "login": "welljacob",     "name": "welljacob" },
+    { "platform": "twitch", "login": "ygoorxxx",      "name": "Ygorxxx" }
+  ]
+}
