@@ -3,7 +3,6 @@
   "message": "",
   "keyword": "koliseuot",
   "channels": [
-    { "platform": "twitch", "login": "yagoodz_",      "name": "yagoodz_" },
     { "platform": "twitch", "login": "aleexsand",     "name": "Alex Bahia" },
     { "platform": "twitch", "login": "amandaays",     "name": "Amandaays" },
     { "platform": "twitch", "login": "arqueirodkt",   "name": "Arqueiro Dkt" },
