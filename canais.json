@@ -11,7 +11,9 @@
     { "platform": "twitch", "login": "heyafro",       "name": "heyafro" },
     { "platform": "twitch", "login": "kiko_alucardi", "name": "Kiko Alucardi" },
     { "platform": "twitch", "login": "kinggigeck",    "name": "King Gigeck" },
+    { "platform": "twitch", "login": "koliseuot_",    "name": "KoliseuOT" },
     { "platform": "twitch", "login": "luucca1993",    "name": "Luucca1993" },
+    { "platform": "kick",   "login": "luccaa1993",    "name": "Luucca1993" },
     { "platform": "twitch", "login": "monkzzera",     "name": "Monk" },
     { "platform": "kick",   "login": "motoboyrj",     "name": "motoboyrj_" },
     { "platform": "twitch", "login": "oubinha27",     "name": "Oubinha" },
@@ -25,6 +27,8 @@
     { "platform": "twitch", "login": "tvnandin_",     "name": "Tv Nandin" },
     { "platform": "twitch", "login": "welljacob",     "name": "welljacob" },
     { "platform": "twitch", "login": "ygoorxxx",      "name": "Ygorxxx" },
+    { "platform": "twitch", "login": "zaaplives",     "name": "Zaaplives" },
+    { "platform": "kick",   "login": "zaaplives",     "name": "Zaaplives" },
     { "platform": "twitch", "login": "japatvshow",    "name": "JapaTvShow" },
     { "platform": "twitch", "login": "4lotus",        "name": "4Lotus" }
   ]
