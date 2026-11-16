@@ -24,6 +24,8 @@
     { "platform": "twitch", "login": "teylera",       "name": "teylera" },
     { "platform": "twitch", "login": "tvnandin_",     "name": "Tv Nandin" },
     { "platform": "twitch", "login": "welljacob",     "name": "welljacob" },
-    { "platform": "twitch", "login": "ygoorxxx",      "name": "Ygorxxx" }
+    { "platform": "twitch", "login": "ygoorxxx",      "name": "Ygorxxx" },
+    { "platform": "twitch", "login": "japatvshow",    "name": "JapaTvShow" },
+    { "platform": "twitch", "login": "4lotus",        "name": "4Lotus" }
   ]
 }
